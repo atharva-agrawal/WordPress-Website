@@ -1,0 +1,2 @@
+// source --> http://localhost/assignment/wp-content/plugins/the-events-calendar/common/src/resources/js/tribe-common.min.js?ver=4.12.18 
+String.prototype.className=function(){return"string"!=typeof this&&!this instanceof String||"function"!=typeof this.replace?this:this.replace(".","")},String.prototype.varName=function(){return"string"!=typeof this&&!this instanceof String||"function"!=typeof this.replace?this:this.replace("-","_")};var tribe=tribe||{};

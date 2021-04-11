@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-11 18:52+0530\n"
+"PO-Revision-Date: 2018-08-13 12:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: featured-plugins/featured-plugins.php:96
+#, php-format
+msgid "%s rating"
+msgstr ""
+
+#: featured-plugins/featured-plugins.php:111
+msgid "Get More Free WordPress Plugin From A WP Life"
+msgstr "A WP Life से अधिक मुफ्त वर्डप्रेस प्लगइन प्राप्त करें"
+
+#: featured-plugins/featured-plugins.php:157
+msgid "More Details"
+msgstr "अधिक जानकारी"
+
+#: featured-plugins/featured-plugins.php:168
+msgid "Install Now"
+msgstr "अभी स्थापित करें"
+
+#: featured-plugins/featured-plugins.php:175
+msgid "Update Now"
+msgstr "अभी अद्यतन करें"
+
+#: featured-plugins/featured-plugins.php:218
+msgid "By "
+msgstr "द्वारा "
+
+#: featured-plugins/featured-plugins.php:239
+msgid "Last Updated:"
+msgstr "आखरी अपडेट:"
+
+#: new-video-gallery.php:52
+msgid "New Video Gallery"
+msgstr "नई वीडियो गैलरी"
+
+#: new-video-gallery.php:111
+msgid "Docs"
+msgstr "डॉक्स"
+
+#: new-video-gallery.php:112
+msgid "Featured-Plugin"
+msgstr "विशेष रुप से प्रदर्शित-प्लगइन"
+
+#: new-video-gallery.php:112
+msgid "Featured Plugin"
+msgstr "विशेष रुप से प्रदर्शित-प्लगइन"
+
+#: new-video-gallery.php:113
+msgid "Our Theme"
+msgstr "हमारी थीम"
+
+#: new-video-gallery.php:123 new-video-gallery.php:124
+#: new-video-gallery.php:125 new-video-gallery.php:126
+#: new-video-gallery.php:140
+msgid "Video Gallery"
+msgstr "वीडियो गैलरी"
+
+#: new-video-gallery.php:127
+msgid "Add Video Gallery"
+msgstr "वीडियो गैलरी जोड़ें"
+
+#: new-video-gallery.php:128
+msgid "Add New Video Gallery"
+msgstr "नई वीडियो गैलरी जोड़ें"
+
+#: new-video-gallery.php:129
+msgid "New Video Gallery "
+msgstr "नई वीडियो गैलरी "
+
+#: new-video-gallery.php:130
+msgid "Edit Video Gallery"
+msgstr "वीडियो गैलरी संपादित करें"
+
+#: new-video-gallery.php:131
+msgid "View Video Gallery"
+msgstr "वीडियो गैलरी देखें"
+
+#: new-video-gallery.php:132
+msgid "All Video Gallery"
+msgstr "सभी वीडियो गैलरी"
+
+#: new-video-gallery.php:133
+msgid "Search Video Gallery"
+msgstr "वीडियो गैलरी खोजें"
+
+#: new-video-gallery.php:134
+msgid "Parent Video Gallery:"
+msgstr "अभिभावक वीडियो गैलरी:"
+
+#: new-video-gallery.php:135
+msgid "Video Gallery Not found."
+msgstr "वीडियो गैलरी नहीं मिली."
+
+#: new-video-gallery.php:136
+msgid "Video Gallery Not found in Trash."
+msgstr "ट्रैश में वीडियो गैलरी नहीं मिली."
+
+#: new-video-gallery.php:141
+msgid "Custom Post Type For Video Gallery"
+msgstr "वीडियो गैलरी के लिए कस्टम पोस्ट प्रकार"
+
+#: new-video-gallery.php:168
+msgid "Add Video"
+msgstr "वीडियो जोड़ें"
+
+#: new-video-gallery.php:181
+msgid "How to get YouTube / Vimeo video id?"
+msgstr "YouTube / Vimeo वीडियो आईडी कैसे प्राप्त करें?"
+
+#: new-video-gallery.php:182
+msgid "Capture YouTube / Vimeo Video Poster Like A Pro"
+msgstr "एक प्रो की तरह यूट्यूब / Vimeo वीडियो पोस्टर कैप्चर करें"
+
+#: new-video-gallery.php:183
+msgid "Delete All Images"
+msgstr "सभी छवियों को हटाएं"
+
+#: new-video-gallery.php:202 new-video-gallery.php:253
+msgid "YouTube"
+msgstr "यूट्यूब"
+
+#: new-video-gallery.php:203 new-video-gallery.php:254
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: new-video-gallery.php:210 new-video-gallery.php:261
+msgid "Use Above Poster"
+msgstr "ऊपर पोस्टर का प्रयोग करें"
+
+#: new-video-gallery.php:211 new-video-gallery.php:262
+msgid "Fetch YouTube Poster"
+msgstr "यूट्यूब पोस्टर लाओ"
+
+#: new-video-gallery.php:225
+msgid "Add Image"
+msgstr "छवि जोड़ें"
+
+#: new-video-gallery.php:230
+msgid "Copy Video Gallery Shortcode"
+msgstr "वीडियो गैलरी शोर्ट कॉपी करें"
+
+#: new-video-gallery.php:233
+msgid ""
+"Copy & Embed shotcode into any Page/ Post / Text Widget to display your "
+"video gallery on site."
+msgstr ""
+"साइट पर अपनी वीडियो गैलरी प्रदर्शित करने के लिए किसी भी पेज / पोस्ट / टेक्स्ट विजेट में "
+"कॉपीकोड  एम्बेड करें."
+
+#: new-video-gallery.php:238
+msgid "Video Gallery Setting"
+msgstr "वीडियो गैलरी सेटिंग"
+
+#: video-gallery-code.php:79
+msgid "Sorry! No video gallery found "
+msgstr "माफ़ कीजिये! कोई वीडियो गैलरी नहीं मिली "
+
+#: video-gallery-settings.php:37
+msgid "A. Columns & Thumbnail Settings"
+msgstr "ए कॉलम और थंबनेल सेटिंग्स"
+
+#: video-gallery-settings.php:45
+msgid "1. Gallery Thumbnail Size"
+msgstr "1. गैलरी थंबनेल आकार"
+
+#: video-gallery-settings.php:48
+msgid "Thumbnail – 150 × 150"
+msgstr "थंबनेल - 150 × 150"
+
+#: video-gallery-settings.php:49
+msgid "Medium – 300 × 169"
+msgstr "मध्यम - 300 × 16 9"
+
+#: video-gallery-settings.php:50
+msgid "Large – 840 × 473"
+msgstr "बड़ा - 840 × 473"
+
+#: video-gallery-settings.php:51
+msgid "Full Size – 1280 × 720"
+msgstr "पूर्ण आकार - 1280 × 720"
+
+#: video-gallery-settings.php:53
+msgid "Select gallery thumnails size to display into gallery"
+msgstr "गैलरी में प्रदर्शित करने के लिए गैलरी थंबनेल आकार का चयन करें"
+
+#: video-gallery-settings.php:57
+msgid "2. Colums On Large Desktops"
+msgstr "2. बड़े डेस्कटॉप पर कॉलम"
+
+#: video-gallery-settings.php:60 video-gallery-settings.php:74
+#: video-gallery-settings.php:88 video-gallery-settings.php:101
+msgid "1 Column"
+msgstr "1 कॉलम"
+
+#: video-gallery-settings.php:61 video-gallery-settings.php:75
+#: video-gallery-settings.php:89 video-gallery-settings.php:102
+msgid "2 Column"
+msgstr "2 कॉलम"
+
+#: video-gallery-settings.php:62 video-gallery-settings.php:76
+#: video-gallery-settings.php:90 video-gallery-settings.php:103
+msgid "3 Column"
+msgstr "3 कॉलम"
+
+#: video-gallery-settings.php:63 video-gallery-settings.php:77
+#: video-gallery-settings.php:91 video-gallery-settings.php:104
+msgid "4 Column"
+msgstr "4 कॉलम"
+
+#: video-gallery-settings.php:64 video-gallery-settings.php:78
+#: video-gallery-settings.php:92
+msgid "6 Column"
+msgstr "6 कॉलम"
+
+#: video-gallery-settings.php:65 video-gallery-settings.php:79
+msgid "12 Column"
+msgstr "12 कॉलम"
+
+#: video-gallery-settings.php:67
+msgid "Select gallery column layout for large desktop devices"
+msgstr "बड़े डेस्कटॉप उपकरणों के लिए गैलरी कॉलम लेआउट का चयन करें"
+
+#: video-gallery-settings.php:71
+msgid "3. Colums On Desktops"
+msgstr "3. डेस्कटॉप पर कॉलम"
+
+#: video-gallery-settings.php:81
+msgid "Select gallery column layout for desktop devices"
+msgstr "डेस्कटॉप उपकरणों के लिए गैलरी कॉलम लेआउट का चयन करें"
+
+#: video-gallery-settings.php:85
+msgid "4. Colums On Tablets"
+msgstr "4. नोटबुक पर कॉलम"
+
+#: video-gallery-settings.php:94
+msgid "Select gallery column layout for tablet devices"
+msgstr "टैबलेट उपकरणों के लिए गैलरी कॉलम लेआउट का चयन करें"
+
+#: video-gallery-settings.php:98
+msgid "5. Colums On Phones"
+msgstr "5. फोन पर कॉलम"
+
+#: video-gallery-settings.php:106
+msgid "Select gallery column layout for phone devices"
+msgstr "फोन उपकरणों के लिए गैलरी कॉलम लेआउट का चयन करें"
+
+#: video-gallery-settings.php:117
+msgid "B. Width & Height Settings"
+msgstr "बी चौड़ाई और ऊंचाई सेटिंग्स"
+
+#: video-gallery-settings.php:124
+msgid "1. Width"
+msgstr "1. चौड़ाई"
+
+#: video-gallery-settings.php:127
+msgid "Set the video frame preview width. Default is 700."
+msgstr "वीडियो फ्रेम पूर्वावलोकन चौड़ाई सेट करें। डिफ़ॉल्ट 700 है."
+
+#: video-gallery-settings.php:131
+msgid "2. Height"
+msgstr "2. ऊंचाई"
+
+#: video-gallery-settings.php:134
+msgid "Set the video frame preview height. Default is 480."
+msgstr "वीडियो फ्रेम पूर्वावलोकन ऊंचाई सेट करें। डिफ़ॉल्ट 480 है."
+
+#: video-gallery-settings.php:145
+msgid "C. Auto play/Close Settings"
+msgstr "सी ऑटो प्ले / बंद सेटिंग्स"
+
+#: video-gallery-settings.php:152
+msgid "1. Auto Play"
+msgstr "1. ऑटो प्ले"
+
+#: video-gallery-settings.php:156 video-gallery-settings.php:168
+msgid "Yes"
+msgstr "हाँ"
+
+#: video-gallery-settings.php:158 video-gallery-settings.php:170
+msgid "No"
+msgstr "नहीं"
+
+#: video-gallery-settings.php:159
+msgid "Start playback immediately once the element is clicked (true,false)"
+msgstr "एक बार तत्व क्लिक होने के तुरंत बाद प्लेबैक शुरू करें (सत्य, झूठा)"
+
+#: video-gallery-settings.php:164
+msgid "2. Auto Close"
+msgstr "2. ऑटो बंद करें"
+
+#: video-gallery-settings.php:171
+msgid ""
+"When video will complete than lightbox / popover automatic video is close "
+"(true,false)"
+msgstr ""
+"जब वीडियो लाइटबॉक्स / पॉपओवर से अधिक पूरा हो जाएगा स्वचालित वीडियो बंद है (सत्य, "
+"झूठा)"
+
+#: video-gallery-settings.php:183
+msgid "D. Extra Other Settings"
+msgstr "डी अतिरिक्त अतिरिक्त सेटिंग्स"
+
+#: video-gallery-settings.php:190
+msgid "1. Z index"
+msgstr "1. जेड सूचकांक"
+
+#: video-gallery-settings.php:199
+msgid "Default"
+msgstr "डिफ़ॉल्ट"
+
+#: video-gallery-settings.php:201
+msgid "Custom"
+msgstr "रिवाज"
+
+#: video-gallery-settings.php:205
+msgid "Set the Z-index of video frame preview page overlay. Default is 2100."
+msgstr "वीडियो फ्रेम पूर्वावलोकन पेज ओवरले के जेड-इंडेक्स को सेट करें। डिफ़ॉल्ट 2100 है."
+
+#: video-gallery-settings.php:210
+msgid "2. Custom CSS"
+msgstr "2. कस्टम सीएसएस"
+
+#: video-gallery-settings.php:213
+msgid "Apply own css on video gallery and dont use style tag"
+msgstr "वीडियो गैलरी पर अपना सीएसएस लागू करें और स्टाइल टैग का उपयोग न करें"
+
+#: video-gallery-settings.php:224
+msgid "E. Fade In/Out Settings"
+msgstr "ई फीड इन / आउट सेटिंग्स"
+
+#: video-gallery-settings.php:230
+msgid "1. Fade In"
+msgstr "1. फीका"
+
+#: video-gallery-settings.php:232 video-gallery-settings.php:236
+#: video-gallery-settings.php:255 video-gallery-settings.php:259
+#: video-gallery-settings.php:278 video-gallery-settings.php:282
+#: video-gallery-settings.php:286 video-gallery-settings.php:290
+msgid "Upgrade To Pro"
+msgstr "प्रो में अपग्रेड"
+
+#: video-gallery-settings.php:234
+msgid "2. Fade Out"
+msgstr "2. फीका आउट"
+
+#: video-gallery-settings.php:247
+msgid "F. Glow Settings"
+msgstr "एफ चमक सेटिंग्स"
+
+#: video-gallery-settings.php:253
+msgid "1. Glow Radius"
+msgstr "1. चमक त्रिज्या"
+
+#: video-gallery-settings.php:257
+msgid "2. Glow Color"
+msgstr "2. चमक रंग"
+
+#: video-gallery-settings.php:270
+msgid "G. Color Settings"
+msgstr "जी रंग सेटिंग्स"
+
+#: video-gallery-settings.php:276
+msgid "1. Background Color"
+msgstr "1. पृष्ठभूमि रंग"
+
+#: video-gallery-settings.php:280
+msgid "2. Background Color Opicity"
+msgstr "2. पृष्ठभूमि रंग अस्पष्टता"
+
+#: video-gallery-settings.php:284
+msgid "3. Video Frame Color"
+msgstr "3. वीडियो फ्रेम रंग"
+
+#: video-gallery-settings.php:288
+msgid "4. Video Frame Border"
+msgstr "4. वीडियो फ्रेम सीमा"
